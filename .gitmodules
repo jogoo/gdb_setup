@@ -1,0 +1,9 @@
+[submodule "exploitable"]
+	path = exploitable
+	url = https://github.com/jfoote/exploitable.git
+[submodule "gdb-dashboard"]
+	path = gdb-dashboard
+	url = https://github.com/cyrus-and/gdb-dashboard.git
+[submodule "pwndbg"]
+	path = pwndbg
+	url = https://github.com/pwndbg/pwndbg.git
