@@ -1,0 +1,7 @@
+dashboard -layout assembly !expressions !history memory registers source stack !threads
+dashboard -style style_low '1;36'
+dashboard assembly -style context 2
+dashboard assembly -style opcodes True
+dashboard source -style context 2
+dashboard stack -style limit 1
+
